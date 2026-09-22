@@ -1,4 +1,4 @@
-# Undian Arisan (PWA)
+# Undian Arisan
 
 Aplikasi undian arisan (roda putar + globe bola) yang bisa dipasang seperti
 aplikasi biasa di HP, lewat GitHub Pages.
